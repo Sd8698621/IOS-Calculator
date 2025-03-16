@@ -1,0 +1,13 @@
+To enter your AdMob ad unit details on a third-party mediation platform:
+Sign in to your account on the third-party mediation platform
+Use the following details to map your AdMob ad unit on the mediation platform:
+AdMob app ID
+Calculatorca-app-pub-8687461824709123~6919109056
+
+AdMob ad unit ID
+Calculator_Home_Bannerca-app-pub-8687461824709123/2456253892
+tips image
+Tips
+Make sure you've implemented the minimum SDK and adapter versions required by the third-party mediation platform.
+
+If you’re using partner bidding for the first time, we recommend running a test for at least 2 weeks before evaluating the performance.
