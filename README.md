@@ -46,9 +46,6 @@ expo start
 - **React Navigation** - For seamless navigation
 - **Styled Components** - For styling the UI
 
-## 📷 Screenshots
-_Add screenshots of the app here_
-
 ## 📜 License
 This project is licensed under the **MIT License**.
 
@@ -56,5 +53,5 @@ This project is licensed under the **MIT License**.
 Feel free to submit issues and pull requests!
 
 ## 📩 Contact
-For any queries, reach out to [your_email@example.com](mailto:your_email@example.com).
+For any queries, reach out to [sayandutta@engineer.com](mailto:sayandutta@engineer.com).
 
